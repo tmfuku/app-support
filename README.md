@@ -4,8 +4,8 @@ GitHub Pagesで複数アプリのサポート情報を公開するため、ア�
 
 ## URL構成
 
-- アプリ一覧: `https://tmfuku.github.io/nagi-number-place-support/`
-- 凪ナンプレ: `https://tmfuku.github.io/nagi-number-place-support/nagi-number-place/`
-- 凪ナンプレ プライバシーポリシー: `https://tmfuku.github.io/nagi-number-place-support/nagi-number-place/privacy.html`
+- アプリ一覧: `https://tmfuku.github.io/app-support/`
+- 凪ナンプレ: `https://tmfuku.github.io/app-support/nagi-number-place/`
+- 凪ナンプレ プライバシーポリシー: `https://tmfuku.github.io/app-support/nagi-number-place/privacy.html`
 
-従来の `/privacy.html` は、App Storeに登録済みのURLを切らさないため、新しいプライバシーポリシーへ転送します。新しいアプリはルート直下に専用ディレクトリを追加します。
+`nagi-number-place-support` リポジトリには、App Storeに登録済みの旧URLを切らさないため、このサイトへの転送ページだけを残します。新しいアプリは本リポジトリのルート直下に専用ディレクトリを追加します。
